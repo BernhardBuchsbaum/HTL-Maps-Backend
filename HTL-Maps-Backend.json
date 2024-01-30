@@ -1,0 +1,11 @@
+{
+  "name": "HTL-Maps-Backend",
+  "version": "1.0.0",
+  "description": "Interacts with Java Backend",
+  "main": "HTL-Maps-Backend,js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BernhardBuchsbaum/HTL-Maps-Backend.git"
+  },
+  "author": "Esmin Alekic",
+}
